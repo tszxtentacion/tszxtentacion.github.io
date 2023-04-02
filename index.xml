@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="book.css"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    
   <channel>
     <title>My New Hugo Site</title>
     <link>https://tszxtentacion.github.io/</link>
